@@ -23,7 +23,7 @@ More platforms land here as they're built. One folder per skill, each with its o
 Skills live in `~/.claude/skills/`. This repo keeps them under version control and links them into place, so a `git pull` is all an update takes.
 
 ```bash
-git clone https://github.com/reapzyau/mos-smma-skills.git ~/Desktop/mos-smma-skills
+git clone https://github.com/the-vibe-marketing-lab/mos-smma-skills.git ~/Desktop/mos-smma-skills
 cd ~/Desktop/mos-smma-skills
 bash setup.sh
 ```
@@ -32,12 +32,12 @@ bash setup.sh
 
 **Updating:** `cd ~/Desktop/mos-smma-skills && git pull`. The links point at the clone, so that's it. Updates are announced in the Skool community.
 
-**Other packs:** this is one of the `mos-*-skills` packs that accompany the [MarketingOS engine](https://github.com/reapzyau/marketing-os). The full list is in the [marketing-os-skills](https://github.com/reapzyau/marketing-os-skills) README.
+**Other packs:** this is one of the `mos-*-skills` packs that accompany the [MarketingOS engine](https://github.com/the-vibe-marketing-lab/marketing-os). The full list is in the [marketing-os-skills](https://github.com/the-vibe-marketing-lab/marketing-os-skills) README.
 
 ## How to use
 
 - **From a topic:** `/mos-linkedin-post` then "a post on why most gym owners over-discount in January". You get options in your voice, hook first.
-- **From long-form:** point either skill at a file. A YouTube transcript from [mos-yt-skills](https://github.com/reapzyau/mos-yt-skills) or a wiki page from your knowledge library turns into a week of posts in one run.
+- **From long-form:** point either skill at a file. A YouTube transcript from [mos-yt-skills](https://github.com/the-vibe-marketing-lab/mos-yt-skills) or a wiki page from your knowledge library turns into a week of posts in one run.
 - **Threads:** `/mos-x-post` and ask for a thread. It structures the hook, the body tweets and the close.
 
 ## Tips
